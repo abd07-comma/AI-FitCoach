@@ -9,6 +9,24 @@
 
 ---
 
+## 🎥 Demo
+
+![AI FitCoach Demo](demo.gif)
+
+---
+
+## 📸 Screenshots
+
+| Push-ups — Rep Counting | Push-ups — Form Feedback |
+|:-----------------------:|:------------------------:|
+| ![Push-up 1](exer01.png) | ![Push-up 2](exer02.png) |
+
+| Squats — Rep Counting | Squats — Form Feedback |
+|:---------------------:|:----------------------:|
+| ![Squat 1](exer03.png) | ![Squat 2](exer04.png) |
+
+---
+
 ## 🎯 Overview
 
 AI FitCoach uses **MediaPipe Pose Estimation** and **OpenCV** to track your body movements in real-time through any camera. It counts your reps, analyzes your form, and gives you instant **voice feedback** — just like having a personal trainer watching you.
