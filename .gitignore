@@ -1,0 +1,18 @@
+# Virtual environments
+.venv/
+.venv2/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Audio cache
+audio_cache/
+
+# Temp files
+temp_audio.mp3
+
+# IDE
+.idea/
+*.iml
